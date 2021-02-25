@@ -1,8 +1,8 @@
 from __future__ import print_function
 
 import numpy as np
-from Assignment2.linear_svm import *
-from Assignment2.softmax import *
+from linear_svm import *
+from softmax import *
 
 class LinearClassifier(object):
 
